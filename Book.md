@@ -6,6 +6,9 @@
 Request an appointment or a service request through an online form. This can accomodate any service specific rules.
 Estabish what systems are required to support this pattern and how this pattern will affect your customer journey and other patterns.
 
+# Image
+![Book](https://user-images.githubusercontent.com/37778927/73451462-95a82400-435f-11ea-9942-623334098d08.png)
+
 ## Running of the pattern
 
 This is where the code will start:
