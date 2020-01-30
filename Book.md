@@ -1,4 +1,4 @@
-> **Book Patterns**
+> **Book Pattern**
 
 
 # Booking an appointment or a service request
