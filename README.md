@@ -9,7 +9,7 @@ All patterns must be useful, unique and be reusable.
 
 ## Existing patterns
 
-[Book]
+[Book](https://github.com/Jamesnewsham/Patterns/blob/master/Book.md)
 
 [Pay]
 
