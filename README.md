@@ -10,7 +10,7 @@ All patterns must be useful, unique and be reusable.
 
 [What is a pattern](https://github.com/Jamesnewsham/Patterns/wiki)
 
-[Book](https://github.com/Jamesnewsham/Patterns/blob/master/Book.md)
+[Book](https://github.com/Jamesnewsham/Patterns/wiki/Book-Pattern)
 
 [Pay]
 
