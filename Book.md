@@ -8,6 +8,7 @@ Estabish what systems are required to support this pattern and how this pattern 
 
 # Image
 ![Book](https://user-images.githubusercontent.com/37778927/73451462-95a82400-435f-11ea-9942-623334098d08.png)
+![Book](https://user-images.githubusercontent.com/37778927/73451462-95a82400-435f-11ea-9942-623334098d08.png)
 
 ## Running of the pattern
 
